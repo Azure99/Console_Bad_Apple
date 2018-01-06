@@ -9,7 +9,7 @@ W = 64
 #总帧数
 cnt = 0
 
-print("Char video maker by Azure99\nPress any Enter to continue")
+print("Char video maker by Azure99\nPress Enter to continue")
 input()
 
 print("Reading video")
