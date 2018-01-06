@@ -1,0 +1,6 @@
+C:\Users\96152\Desktop\ConsoleBadApple\Player\bin\Debug\Player.exe
+C:\Users\96152\Desktop\ConsoleBadApple\Player\bin\Debug\Player.pdb
+C:\Users\96152\Desktop\ConsoleBadApple\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\96152\Desktop\ConsoleBadApple\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\96152\Desktop\ConsoleBadApple\Player\obj\Debug\Player.exe
+C:\Users\96152\Desktop\ConsoleBadApple\Player\obj\Debug\Player.pdb
